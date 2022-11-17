@@ -1,0 +1,53 @@
+#kata {
+  font-size: 2rem;
+}
+
+span {
+  color: #f18ff5;
+}
+
+/* .garis_keatas {
+  
+  border-left: 1px black solid;
+  height: 180px;
+  width: 0px;
+} */
+
+footer {
+  background-color: #f18ff5;
+  padding-top: 14rem;
+  padding: 44px;
+  text-align: center;
+}
+
+footer small {
+  color: black;
+}
+
+
+/* Awal Benner */
+section {
+  padding: 100px 0;
+}
+
+.banner {
+  background-color:  #fae1fb;
+  padding: 150px 0;
+}
+
+.banner img {
+  width: 200px;
+  border-radius: 50px;
+  box-shadow: 0 3px 5px #fff;
+  margin-bottom: 15px;
+}
+
+.banner h2 {
+  margin-bottom: 15px;
+}
+
+.banner-left {
+  padding-left: 25px;
+}
+
+/* Akhir Benner */
