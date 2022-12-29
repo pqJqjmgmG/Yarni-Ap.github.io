@@ -31,6 +31,9 @@ section {
 
 .banner {
   background-image: url('img/jumbotron.jpeg');
+
+  background-size: cover;
+  background-attachment: fixed;
   padding: 150px 0;
 }
 
