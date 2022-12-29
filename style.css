@@ -24,14 +24,13 @@ footer small {
   color: black;
 }
 
-
 /* Awal Benner */
 section {
   padding: 100px 0;
 }
 
 .banner {
-  background-color:  #fae1fb;
+  background-image: url('img/jumbotron.jpeg');
   padding: 150px 0;
 }
 
@@ -44,6 +43,11 @@ section {
 
 .banner h2 {
   margin-bottom: 15px;
+  color: #050505;
+}
+
+.banner p {
+  color: #050505;
 }
 
 .banner-left {
